@@ -49,6 +49,8 @@ input {
 	text-align: center;
 }
 button {
-	background-color: gray;
+	background-color: rgb(168, 162, 162);
+	margin-bottom: 20px;
 	padding: 5px 10px;
+
 }
